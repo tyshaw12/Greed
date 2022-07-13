@@ -2,7 +2,7 @@
 Greed is a game in which the player seeks to gather as many falling gems as possible. The game continues as long as the player wants more!
 
 
-Rules
+Rules \n
 Greed is played according to the following rules.
 
 Gems (*) and rocks (o) randomly appear and fall from the top of the screen.
@@ -12,7 +12,7 @@ If the player touches a rock they lose a point.
 Gems and rocks are removed when the player touches them.
 The game continues until the player closes the window.
 
-Requirements
+Requirements \n
 Your program must also meet the following requirements.
 
 The program must have a README file.
